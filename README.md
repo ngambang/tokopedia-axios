@@ -2,9 +2,9 @@
 
 
 ```python
-# install nodejs 
+install nodejs 
 
-# npm i 
+npm i 
 
-#node tokopedia
+node tokopedia
 ```
